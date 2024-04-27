@@ -10,7 +10,9 @@ This example of application is the most basic program used to demostrate the com
 # Development Environment
 
 IDE: Visula Code
+
 SDK: .NET Framework 8.0.100
+
 Language:  C#
 
 I used C# for this program as it is the one I have the most experience with.
